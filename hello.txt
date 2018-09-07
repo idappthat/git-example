@@ -1,4 +1,6 @@
 hello, world!
 
+link to slides:
+https://docs.google.com/presentation/d/1dNqcDp7U6fqIXN4MuW4d82mG0AlcS7MhQNhr8GBgp2I/edit?usp=sharing
 
 -kolten
